@@ -1,4 +1,4 @@
-# Shppings Network Process Automation
+# Shoppings Network Process Automation
 
 De forma geral, este projeto consiste na automação dos processos de:
   #### Cálculo de One Pages de 25 shoppings.
