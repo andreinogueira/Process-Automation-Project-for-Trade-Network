@@ -1,8 +1,8 @@
 # Shppings Network Process Automation
 
 De forma geral, este projeto consiste na automação dos processos de:
-  # Cálculo de One Pages de 25 shoppings.
-  # Envio dos One Pages para o email dos gerentes dos 25 shoppings.
+  ### Cálculo de One Pages de 25 shoppings.
+  ### Envio dos One Pages para o email dos gerentes dos 25 shoppings.
 
 Um One Page pode ser definido como resumo muito simples e direto, usado pela equipe de gerência de loja para saber os principais indicadores (Faturamento, Diversidade de Produtos e Ticket Médio) de cada shopping. Isto permite em 1 página (daí o nome One Page) tanto a comparação entre diferentes shoppings, quanto quais indicadores aquele shopping conseguiu cumprir naquele dia ou não.
 
